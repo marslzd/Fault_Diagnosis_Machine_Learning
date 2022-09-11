@@ -35,34 +35,34 @@ sklearn == 1.1.1
 > ----
 >
 > Chapter1 Gradient descent.ipynb												 梯度下降法 \
-> Chapter2-1 Perceptron.ipynb														感知机算法
-> Chapter2-2 Perceptron_Iris_classify.ipynb									基于感知器的Iris数据分类
-> Chapter2-3 Perceptron_Mnist_classify.ipynb							    基于感知器的Mnist数据分类
-> Chapter3-1 K_nearest_neighbor.ipynb										  KNN算法
-> Chapter3-2 KNN_Mnist_Classify.ipynb										 基于KNN的Mnist数据分类
-> Chapter3-3 KNN_CWRU_Fault_Diagnosis.ipynb						  基于KNN的CWRU故障诊断
-> Chapter4-1 Naive_Bayes.ipynb													 朴素贝叶斯算法
-> Chapter4-2 Naive_Bayes_Mnist_Classify.ipynb							基于朴素贝叶斯的Mnist数据分类
-> Chapter4-3 Naive_Bayes_CWRU_Fault_Diagnosis.ipynb			 基于朴素贝叶斯的CWRU故障诊断
-> Chapter5-1 Decision_Tree.ipynb													决策树算法
-> Chapter5-2 Decision_Tree_Mnist_Classify.ipynb						   基于决策树的Mnist数据分类
-> Chapter6-1 Logistic_Regression.ipynb										 逻辑斯蒂回归算法
-> Chapter6-2 Maximum_Entropy_Model.ipynb								最大熵模型算法
-> Chapter6-3 Logistic_Regression_Mnist_Classify.ipynb				 基于逻辑斯蒂回归算法的Mnist数据分类
-> Chapter6-4 Max_Entropy_Mnist_Classify.ipynb							基于最大熵的Mnist数据分类
-> Chapter6-5 Logistic_Regression_CWRU_Fault_Diagnosis.ipynb 基于逻辑斯蒂回归的CWRU故障诊断
-> Chapter7-1 Support_Vector_Machine.ipynb								 支持向量机算法
-> Chapter7-2 SVM_Mnist_Classify.ipynb										 基于SVM的Mnist数据分类
-> Chapter7-3 SVM_CWRU_Fault_Diagnosis.ipynb						  基于SVM的CWRU故障诊断
-> Chapter8-1 Boosting.ipynb															Boosting算法
-> Chapter8-2 AdaBoosting_Mnist_Classify.ipynb							 基于AdaBoosting的Mnist数据分类
-> Chapter8-3 AdaBoosting_CWRU_Fault_Dignosis.ipynb				基于AdaBoosting的CWRU的故障诊断
-> Chapter9-1 EM.ipynb																	  EM算法
-> Chapter9-2 EM_Gaussian_Mixture_model.ipynb						   基于EM算法的模型
-> Chapter10-1 Hidden_Markov_Model.ipynb									隐马尔可夫算法
-> Chapter10-2 HMM_NLP.ipynb														HMM在自然语言处理NLP的应用
-> Chapter11-1 Condition_Random_Field.ipynb								条件随机场算法
-> Appendix_CWRU_DCNN.ipynb													  基于DCNN的轴承故障诊断方法
+> Chapter2-1 Perceptron.ipynb														感知机算法\
+> Chapter2-2 Perceptron_Iris_classify.ipynb									基于感知器的Iris数据分类\
+> Chapter2-3 Perceptron_Mnist_classify.ipynb							    基于感知器的Mnist数据分类\
+> Chapter3-1 K_nearest_neighbor.ipynb										  KNN算法\
+> Chapter3-2 KNN_Mnist_Classify.ipynb										 基于KNN的Mnist数据分类\
+> Chapter3-3 KNN_CWRU_Fault_Diagnosis.ipynb						  基于KNN的CWRU故障诊断\
+> Chapter4-1 Naive_Bayes.ipynb													 朴素贝叶斯算法\
+> Chapter4-2 Naive_Bayes_Mnist_Classify.ipynb							基于朴素贝叶斯的Mnist数据分类\
+> Chapter4-3 Naive_Bayes_CWRU_Fault_Diagnosis.ipynb			 基于朴素贝叶斯的CWRU故障诊断\
+> Chapter5-1 Decision_Tree.ipynb													决策树算法\
+> Chapter5-2 Decision_Tree_Mnist_Classify.ipynb						   基于决策树的Mnist数据分类\
+> Chapter6-1 Logistic_Regression.ipynb										 逻辑斯蒂回归算法\
+> Chapter6-2 Maximum_Entropy_Model.ipynb								最大熵模型算法\
+> Chapter6-3 Logistic_Regression_Mnist_Classify.ipynb				 基于逻辑斯蒂回归算法的Mnist数据分类\
+> Chapter6-4 Max_Entropy_Mnist_Classify.ipynb							基于最大熵的Mnist数据分类\
+> Chapter6-5 Logistic_Regression_CWRU_Fault_Diagnosis.ipynb 基于逻辑斯蒂回归的CWRU故障诊断\
+> Chapter7-1 Support_Vector_Machine.ipynb								 支持向量机算法\
+> Chapter7-2 SVM_Mnist_Classify.ipynb										 基于SVM的Mnist数据分类\
+> Chapter7-3 SVM_CWRU_Fault_Diagnosis.ipynb						  基于SVM的CWRU故障诊断\
+> Chapter8-1 Boosting.ipynb															Boosting算法\
+> Chapter8-2 AdaBoosting_Mnist_Classify.ipynb							 基于AdaBoosting的Mnist数据分类\
+> Chapter8-3 AdaBoosting_CWRU_Fault_Dignosis.ipynb				基于AdaBoosting的CWRU的故障诊断\
+> Chapter9-1 EM.ipynb																	  EM算法\
+> Chapter9-2 EM_Gaussian_Mixture_model.ipynb						   基于EM算法的模型\
+> Chapter10-1 Hidden_Markov_Model.ipynb									隐马尔可夫算法\
+> Chapter10-2 HMM_NLP.ipynb														HMM在自然语言处理NLP的应用\
+> Chapter11-1 Condition_Random_Field.ipynb								条件随机场算法\
+> Appendix_CWRU_DCNN.ipynb													  基于DCNN的轴承故障诊断方法\
 
 ---
 
