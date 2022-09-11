@@ -34,7 +34,7 @@ sklearn == 1.1.1
 
 > ----
 >
-> Chapter1 Gradient descent.ipynb												 梯度下降法
+> Chapter1 Gradient descent.ipynb												 梯度下降法 \
 > Chapter2-1 Perceptron.ipynb														感知机算法
 > Chapter2-2 Perceptron_Iris_classify.ipynb									基于感知器的Iris数据分类
 > Chapter2-3 Perceptron_Mnist_classify.ipynb							    基于感知器的Mnist数据分类
